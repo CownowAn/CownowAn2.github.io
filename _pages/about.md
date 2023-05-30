@@ -85,7 +85,7 @@ Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribut
 - *2022.08 - Present*, **M.S.** in Artificial Intelligence. Korea Advanced Institute of Science and Technology (KAIST).
 - *2017.03 - 2021.08*, **B.S.** in Material Science and Engineering. Seoul National University (SNU).
 
-# 💻 Internships \& Work Experiences
+# 💻 Internships and Work Experiences
 - *2022.04 - 2022.07*, Research Intern, <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">**Machine Learning and Artificial Intelligence Lab**</a>, South Korea 
 - *2021.08 - 2022.03*, Engineer, <a href="https://semiconductor.samsung.com/kr/" style="color: #7289da; text-decoration: none;">**Samsung Electronics DS**</a>, South Korea 
 - *2020.07 - 2020.09*, Research Intern, <a href="https://sites.google.com/view/snu-neuromorphic/home?authuser=0" style="color: #7289da; text-decoration: none;">**Neuromorphic Materials and Devices Lab**</a>, South Korea 
