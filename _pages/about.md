@@ -48,17 +48,17 @@ AutoML 2022 Workshop -->
 
 - **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
+<u>Sohyun An*<\u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
+Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2023, <span style="color:red">_Spotlight Presentation_</span> (notable-top-25%) 
 
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
+Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
