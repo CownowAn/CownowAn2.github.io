@@ -43,12 +43,17 @@ AutoML 2022 Workshop -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
-
+<!-- </div>
+</div> -->
+<!-- 
 - **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Sohyun An*<\u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:darkred">**Arxiv**</span> 
+   -->
+- **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
+<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Sohyun An*</u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
