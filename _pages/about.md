@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: 2024.08). Here is my <a href="https://drive.google.com/file/d/1BORnWLI-DjCOIlEPgn4b1N2SdFLLYB37/view?usp=sharing" style="color: #7289da; text-decoration: none;">**CV**</a>
+I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: 2024.08). Here is my <a href="https://drive.google.com/file/d/1-jYXy2rTe5UYy8sXfv5xYw0-7z1jCkPZ/view?usp=sharing" style="color: #7289da; text-decoration: none;">**CV**</a>
 
 My research interest includes:
 - AutoML
