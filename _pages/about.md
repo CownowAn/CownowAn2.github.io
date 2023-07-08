@@ -27,6 +27,7 @@ My research interest includes:
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.07*: &nbsp;✈️✈️ Travel Grant for AutoML 2023 from AutoML organizers
 - *2023.04*: &nbsp;✈️✈️ Google Travel Grant for ICLR 2023 from Google
 - *2023.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2023 as Notable-top-25% - Spotlight Presentation
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to AutoML 2022 Workshop 
