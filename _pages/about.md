@@ -20,9 +20,9 @@ redirect_from:
 I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: 2024.08). Here is my <a href="https://drive.google.com/file/d/1ZS5XTJE4-Vl9c1EX6f8BB7U_2LZkOSmN/view?usp=sharing" style="color: #7289da; text-decoration: none;">**CV**</a>
 
 My research interest includes:
-- AutoML
-- Meta-learning
+- AutoML / Meta-learning
 - Generative Models
+- Large Language Models (LLMs)
 
 
 # 🔥 News
@@ -72,14 +72,15 @@ Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribut
 
 
 # 🎖 Honors and Awards
+- *2023.07*: &nbsp;✈️✈️ Travel Grant for AutoML 2023 from AutoML Organizers
 - *2023.04*: &nbsp;✈️✈️ Google Travel Grant for ICLR 2023 from Google
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🌈 Academic Services
 **Reviewer**
 <!-- - **NeurIPS** 2023 -->
-- **AutoML** 2023
 - **NeurIPS** 2023
+- **AutoML** 2023
 
 # 🎯 Projects
 - *2022 - Present*, AutoML with Large-scale Hyperparameter Meta-Learning, **Google**
