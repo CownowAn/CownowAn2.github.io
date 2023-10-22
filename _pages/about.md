@@ -79,17 +79,19 @@ Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribut
 # 🌈 Academic Services
 **Reviewer**
 <!-- - **NeurIPS** 2023 -->
+- **ICLR** 2024
 - **NeurIPS** 2023
 - **AutoML** 2023
 
 # 🎯 Projects
-- *2022 - Present*, AutoML with Large-scale Hyperparameter Meta-Learning, **Google**
+- *2022 - 2023*, AutoML with Large-scale Hyperparameter Meta-Learning, **Google**
 
 # 📖 Educations
 - *2022.08 - Present*, **M.S.** in Artificial Intelligence. Korea Advanced Institute of Science and Technology (KAIST).
 - *2017.03 - 2021.08*, **B.S.** in Material Science and Engineering. Seoul National University (SNU).
 
-#  🧑‍🏫 Teaching Experiences
+#  🧑‍🏫 Teaching Assistant Experiences
+- *2023.09 - Present*, SNS TA. Korea Advanced Institute of Science and Technology (KAIST).
 - *2023.03 - 2023.06*, TA for AI618 Generative Model and Unsupervised Learning. Korea Advanced Institute of Science and Technology (KAIST).
 
 # 💻 Internships and Work Experiences
