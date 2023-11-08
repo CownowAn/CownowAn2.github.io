@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: 2024.08). Here is my <a href="https://drive.google.com/file/d/1ZS5XTJE4-Vl9c1EX6f8BB7U_2LZkOSmN/view?usp=sharing" style="color: #7289da; text-decoration: none;">**CV**</a>
+I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST. Here is my <a href="https://drive.google.com/file/d/1ZS5XTJE4-Vl9c1EX6f8BB7U_2LZkOSmN/view?usp=sharing" style="color: #7289da; text-decoration: none;">**CV**</a>
 
 My research interest includes:
 - AutoML / Meta-learning
@@ -88,7 +88,7 @@ Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribut
 
 # 📖 Educations
 - *2022.08 - Present*, **M.S.** in Artificial Intelligence. Korea Advanced Institute of Science and Technology (KAIST).
-- *2017.03 - 2021.08*, **B.S.** in Material Science and Engineering. Seoul National University (SNU).
+- *2017.03 - 2021.08*, **B.S.** in Material Science and Engineering (Summa Cum Laude). Seoul National University (SNU).
 
 #  🧑‍🏫 Teaching Assistant Experiences
 - *2023.09 - Present*, SNS TA. Korea Advanced Institute of Science and Technology (KAIST).
