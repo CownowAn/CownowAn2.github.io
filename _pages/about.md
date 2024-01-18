@@ -33,6 +33,7 @@ My research interest includes:
 - *2023.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2023 as Notable-top-25% - Spotlight Presentation
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to AutoML 2022 Workshop 
 
+
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -55,10 +56,15 @@ AutoML 2022 Workshop -->
 <u>Sohyun An*<\u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 
    -->
+- **Multi-Agent Prompting for LLM** \\
+<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf/a4eaae5c2a92160517ffc834764d1ff744d22d27.pdf" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Ruochen Wang\*, <u>Sohyun An*</u>, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (\*: equal contribution) \\
+<span style="color:darkred">**Under Review**</span> 
+   
 - **DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Sohyun An*</u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**Arxiv**</span> 
+<span style="color:darkred">**ICLR**</span> 2024
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
