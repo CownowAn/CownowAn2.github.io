@@ -27,6 +27,7 @@ My research interest includes:
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2024
 - *2023.07*: &nbsp;✈️✈️ Travel Grant for AutoML 2023 from AutoML Organizers
 - *2023.04*: &nbsp;✈️✈️ Google Travel Grant for ICLR 2023 from Google
 - *2023.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2023 as Notable-top-25% - Spotlight Presentation
@@ -54,7 +55,7 @@ AutoML 2022 Workshop -->
 <u>Sohyun An*<\u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 
    -->
-- **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
+- **DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Sohyun An*</u>, Hayeon Lee\*, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 
