@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sohyun An"
-# description              : "Interested in Machine Learning and Deep Learning."
+description              : "Interested in Machine Learning and Deep Learning."
 repository               : "CownowAn/CownowAn.github.io"
 google_scholar_stats_use_cdn : true
 
