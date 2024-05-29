@@ -86,6 +86,8 @@ Hayeon Lee\*, <u>Sohyun An*</u>, Minseon Kim, Sung Ju Hwang (\*: equal contribut
 # 🌈 Academic Services
 **Reviewer**
 <!-- - **NeurIPS** 2023 -->
+- **NeurIPS** 2024
+- **ICML** 2024
 - **ICLR** 2024
 - **NeurIPS** 2023
 - **AutoML** 2023
